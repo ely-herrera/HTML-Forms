@@ -1,0 +1,44 @@
+form label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: black;
+  font-family: arial;
+  padding-top: 10px;
+}
+
+for input[type="text"] {
+  color: black;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+form textarea {
+  color: black;
+  font-size: 16px;
+  resize: none;
+  width: 100%;
+}
+
+form button {
+  padding: 8px 10px;
+  background-color: rgb(15, 15, 15);
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  font-family: Tahoma;
+}
+
+legend {
+  background-color: black;
+  color: white;
+  padding: 3px 6px;
+  border-radius: 6px;
+}
+
+fieldset {
+  padding: 10px 12px;
+  margin: 10px;
+  border-radius: 6px;
+  border-style: dotted;
+}
